@@ -1,0 +1,6 @@
+{
+  "name": "MERN Mastery 3D",
+  "description": "An immersive 3D-styled full-stack MERN roadmap app in Hinglish, with interactive modules, assignments, project codebases, quizzes, and a server-side AI Mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
