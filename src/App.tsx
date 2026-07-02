@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Analytics } from '@vercel/analytics/react';
 import {
   modulesCatalog,
   ModuleMeta
@@ -1176,6 +1177,7 @@ export default function App() {
           <p className="font-mono">Current Server Status: Online | Core Stack: Node, Express, Vite, React & Google Gemini Flash</p>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }
